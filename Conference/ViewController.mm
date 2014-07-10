@@ -21,6 +21,7 @@ static NSString *kUser1password = @"harper98";
 static NSString *kUser2password = @"harper98";
 
 @interface ViewController ()
+@property (strong, nonatomic) IBOutlet UITextField *userNameField;
 
 @end
 
